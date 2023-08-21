@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h1>
+          Filipe de Sá
+        </h1>
       </header>
     </div>
   );
